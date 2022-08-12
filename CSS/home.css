@@ -14,9 +14,9 @@
 }
 
 .btn {
-    margin-top: 44px;
+    padding: 5px 8px;
+    margin: 44px 5px;
 }
-
 
 .content div {
     min-width: 660px;
